@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [Full CV](https://boyuanw1.github.io/files/Resume.pdf)
+
 
 
 Education
