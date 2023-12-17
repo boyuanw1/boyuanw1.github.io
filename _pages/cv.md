@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Full CV]()
 Education
 ======
 * Ph.D. in Economics, Simon Fraser University, 2024 (Expected)
