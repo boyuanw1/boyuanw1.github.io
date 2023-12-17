@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 [Full CV](https://boyuanw1.github.io/files/Resume.pdf)
+
+
 Education
 ======
 * Ph.D. in Economics, Simon Fraser University, 2024 (Expected)
