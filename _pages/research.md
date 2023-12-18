@@ -26,6 +26,7 @@ length lowers conscripts’ chances of obtaining post-graduate degrees suggestin
 case for human capital as an explanation for the conscription premium and strengthen support for a signaling mechanism.
 
 
+</details>
 
 
 
@@ -50,6 +51,7 @@ increase in uncertainty increases divorces in places where the information
 is less important and decreases divorces when that information is
 more important.
 
+</details>
 
 
 
@@ -71,3 +73,5 @@ the pharmaceutical companies’ favor if they receive contributions from
 those companies. My findings are consistent with pharmaceutical companies
 using a small amount of campaign contributions to buy access to
 lawmakers in hopes of lobbying them on the issue later.
+
+</details>
