@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-**[Conscription: Signaling or Human Capital Accumulation?](https://boyuanw1.github.io/files/Korean_conscription.pdf) 
+*[Conscription: Signaling or Human Capital Accumulation?](https://boyuanw1.github.io/files/Korean_conscription.pdf) 
 
 <details>
 <summary>
@@ -25,3 +25,41 @@ and income, the length of compulsory military service does not affect a worker�
 length lowers conscripts’ chances of obtaining post-graduate degrees suggesting a net human capital depreciation. My findings weaken the
 case for human capital as an explanation for the conscription premium and strengthen support for a signaling mechanism.
 
+*[The Heterogeneous Effects of Uncertainty
+on Divorces](https://boyuanw1.github.io/files/Information_and_Divorce.pdf)
+
+<details>
+<summary>
+
+Abstract
+
+</summary>
+
+Existing work shows that uncertainty created by a lack of information
+about the other partner before marriage leads to more divorces.
+In this paper, I use the different timing of the adoption of
+anti-discrimination legislation in Japan, which bans the identification
+of the Burakumins, to examine the effect of uncertainty on divorces
+with a difference-in-differences approach. I show that an increase in
+such uncertainty has heterogeneous effects on divorces. I find that an
+increase in uncertainty increases divorces in places where the information
+is less important and decreases divorces when that information is
+more important.
+
+*[Did Big Pharma Influence the Adoption
+of COVID Vaccine Mandates?](https://boyuanw1.github.io/files/vax_mandate.pdf)
+
+<details>
+<summary>
+
+Abstract
+
+</summary>
+
+This paper examines whether campaign contributions from pharmaceutical
+companies have an impact on the U.S. state lawmakers’ votes
+on COVID vaccine legislation. I find state legislators tend to vote in
+the pharmaceutical companies’ favor if they receive contributions from
+those companies. My findings are consistent with pharmaceutical companies
+using a small amount of campaign contributions to buy access to
+lawmakers in hopes of lobbying them on the issue later.
