@@ -16,6 +16,7 @@ author_profile: true
 * ECON 302 - Intermediate Microeconomic Theory II
 * ECON 201 - Intermediate Microeconomic Theory I
 * ECON 105 - Principles of Macroeconomics
+* ECON 113 - Introduction to Microeconomics
 * ECON 104 - Economics and Government
 * ECON 103 - Principles of Microeconomics
   
