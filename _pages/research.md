@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-*[Conscription: Signaling or Human Capital Accumulation?](https://boyuanw1.github.io/files/Korean_conscription.pdf) 
+* *[Conscription: Signaling or Human Capital Accumulation?](https://boyuanw1.github.io/files/Korean_conscription.pdf)* 
 
 <details>
 <summary>
@@ -25,8 +25,7 @@ and income, the length of compulsory military service does not affect a workerâ€
 length lowers conscriptsâ€™ chances of obtaining post-graduate degrees suggesting a net human capital depreciation. My findings weaken the
 case for human capital as an explanation for the conscription premium and strengthen support for a signaling mechanism.
 
-*[The Heterogeneous Effects of Uncertainty
-on Divorces](https://boyuanw1.github.io/files/Information_and_Divorce.pdf)
+* *[The Heterogeneous Effects of Uncertainty on Divorces](https://boyuanw1.github.io/files/Information_and_Divorce.pdf)*
 
 <details>
 <summary>
@@ -46,8 +45,7 @@ increase in uncertainty increases divorces in places where the information
 is less important and decreases divorces when that information is
 more important.
 
-*[Did Big Pharma Influence the Adoption
-of COVID Vaccine Mandates?](https://boyuanw1.github.io/files/vax_mandate.pdf)
+* *[Did Big Pharma Influence the Adoption of COVID Vaccine Mandates?](https://boyuanw1.github.io/files/vax_mandate.pdf)*
 
 <details>
 <summary>
