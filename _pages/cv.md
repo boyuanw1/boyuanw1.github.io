@@ -23,7 +23,7 @@ Education
 
 Software Skills
 ======
-* Stata, R, MATLAB, Python, SQL, MS Office, LaTex
+* Stata, R, MATLAB, Python, SQL, MS Office, LaTex, QGIS
 
 
 
