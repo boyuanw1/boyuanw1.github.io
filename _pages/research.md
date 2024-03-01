@@ -66,12 +66,17 @@ Abstract
 
 </summary>
 
-This paper examines whether campaign contributions from pharmaceutical
-companies have an impact on the U.S. state lawmakers’ votes
-on COVID vaccine legislation. I find state legislators tend to vote in
-the pharmaceutical companies’ favor if they receive contributions from
-those companies. My findings are consistent with pharmaceutical companies
-using a small amount of campaign contributions to buy access to
-lawmakers in hopes of lobbying them on the issue later.
+This paper examines whether pharmaceutical companies directly lobbied U.S. state lawmakers for their votes on COVID vaccine legislation.
+I find that state legislators who received campaign contributions from
+pharmaceutical companies are not likelier to vote in favor of those
+companies on the vaccine mandates. Prior field experiments have shown
+that campaign contributions buy access, and the U.S. pharmaceutical
+industry has directly influenced key state referenda on drug pricing and
+regulation reforms with its political contributions. While Democrats
+have primarily voted for the vaccine mandates, it can be quite costly for
+Republicans to do the same. Journalists find that the industry remained
+largely in the background of the controversial vaccine mandate policies
+and relied primarily on third-party organizations to advance its agenda.
+The findings of this paper provide evidence for this observation.
 
 </details>
