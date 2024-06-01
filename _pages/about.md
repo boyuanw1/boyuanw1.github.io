@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my PhD in economics from Simon Fraser University. I specialize in causal inference and applied microeconomics. My research interests include development, labor, political economy, marriage, and discrimination. 
+I received my PhD in economics from Simon Fraser University. I specialize in causal inference and applied microeconomics. My research interests include development, labor, political economy, marriage, and discrimination. 
 
