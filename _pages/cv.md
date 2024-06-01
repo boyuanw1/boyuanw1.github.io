@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, Simon Fraser University, 2024 (Expected)
+* Ph.D. in Economics, Simon Fraser University, 2024
 * M.A. in Economics, Simon Fraser University, 2017
 * Bcomm. Business and Economics, University of Windsor, 2016
 
@@ -23,7 +23,7 @@ Education
 
 Software Skills
 ======
-* Stata, R, MATLAB, Python, SQL, MS Office, LaTex, QGIS
+* Stata, R, MATLAB, Python, MySQL, MS Office, LaTex, QGIS, Power BI, Tableau
 
 
 
