@@ -16,6 +16,7 @@ author_profile: true
 * ECON 331 - Introduction to Mathematical Economics
 * ECON 305 - Intermediate Macroeconomic Theory
 * ECON 302 - Intermediate Microeconomic Theory II
+* ECON 280 - Introduction to Labor Economics
 * ECON 201 - Intermediate Microeconomic Theory I
 * ECON 105 - Principles of Macroeconomics
 * ECON 113 - Introduction to Microeconomics
