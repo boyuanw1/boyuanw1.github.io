@@ -33,7 +33,7 @@ suggesting a net human capital depreciation. My findings support the case that c
 
 
 
-* *[The Heterogeneous Effects of Uncertainty on Divorces](https://boyuanw1.github.io/files/Information_and_Divorce.pdf)*
+* *[The Heterogeneous Effects of Uncertainty on Divorces](https://boyuanw1.github.io/files/Information_And_Divorce.pdf)*
 
 <details>
 <summary>
