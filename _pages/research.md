@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-* *[Conscription: Signaling or Human Capital Accumulation?](https://boyuanw1.github.io/files/Korean_conscription.pdf)* 
+* *[Conscription: Extensive vs Intensive Margin?](https://boyuanw1.github.io/files/Korean_conscription.pdf)* 
 
 <details>
 <summary>
