@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 **Instructorship**
+* PLCY 824: Analysis, Formulation, and Evaluation of Social Policy
+* PLCY 801: Economic Foundations of Policy Analysis I
 * ECON 105 - Principles of Macroeconomics 
 
 
