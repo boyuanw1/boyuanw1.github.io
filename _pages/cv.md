@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](https://boyuanw1.github.io/files/Boyuan Wang CV.pdf)
+[Full CV](https://boyuanw1.github.io/files/Boyuan_Wang_CV.pdf)
 
 
 
